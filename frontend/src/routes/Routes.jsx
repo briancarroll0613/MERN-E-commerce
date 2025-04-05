@@ -141,7 +141,7 @@ const router = createBrowserRouter([
           },
           {
             path: '/admin/product/update/:id',
-            element: <ProductFormPage />
+            element: <ProductFormPage />//updated
           }
         ]
       }
